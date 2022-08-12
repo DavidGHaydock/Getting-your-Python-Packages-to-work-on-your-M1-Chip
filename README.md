@@ -36,6 +36,7 @@ Once this is done however, any of the packages you install with brew will now in
 
 I would recommend installing miniconda3 for Python environments, and choosing the x86_64 Mac installer:
 https://docs.conda.io/en/latest/miniconda.html
+
 Using that in the Rosetta terminal works fine, and doing so allows you to create Python 2.7 environments in the M1 Mac no problem!
 
 Installation of anything using pip in any Python environment using this method doesn't cause M1 chip compatibility errors.
